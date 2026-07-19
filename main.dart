@@ -1,11 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
-import 'package:gym_way/widgets/header_section.dart';
-import 'package:gym_way/widgets/days_section.dart';
-import 'package:gym_way/widgets/progress_section.dart';
-import 'package:gym_way/widgets/body_status_section.dart';
-import 'package:gym_way/widgets/water_section.dart';
-import 'package:gym_way/widgets/quick_actions_section.dart';
+
 void main() {
   runApp(GymWayApp());
 }
